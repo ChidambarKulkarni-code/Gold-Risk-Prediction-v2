@@ -194,4 +194,3 @@ with st.expander("ℹ️ Model Details"):
     st.write(f"Testing period rows: {len(test):,}")
 
 st.markdown("---")
-st.info("Built by Chinmay Kulkarni | PGDM FinTech")
