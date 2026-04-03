@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # IMPORTANT: Replace with your real GitHub raw URL
-BASE_URL = "https://github.com/ChidambarKulkarni-code/Gold-Risk-Prediction-v2"
+BASE_URL = "https://raw.githubusercontent.com/ChidambarKulkarni-code/Gold-Risk-Prediction-v2/main/data_outputs/"
 
 st.set_page_config(page_title="Gold Price Dashboard", layout="wide")
 
