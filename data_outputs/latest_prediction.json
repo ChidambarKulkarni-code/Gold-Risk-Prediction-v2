@@ -1,1 +1,7 @@
-data_outputs/latest_prediction.json
+{
+    "forecast_date": "2026-04-01",
+    "current_price": 6000,
+    "predicted_price": 6100,
+    "predicted_return_pct": 1.66,
+    "model_used": "XGBoost"
+}
