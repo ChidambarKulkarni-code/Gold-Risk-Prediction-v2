@@ -45,8 +45,8 @@ def _clean_download(ticker: str, series_name: str, start_date: str) -> pd.DataFr
         ticker,
         start=start_date,
         progress=False,
-        auto_adjust=False,
-        threads=False
+        auto_adjust=True,
+        threads=True
     )
 
     if df is None or df.empty:
