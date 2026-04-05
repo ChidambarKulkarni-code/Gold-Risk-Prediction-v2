@@ -1,0 +1,13 @@
+{
+    "predicted_date": "2026-04-03",
+    "predicted_price": 140289.94,
+    "direction": "UP",
+    "probability": 97.79,
+    "lower_bound": 139846.43,
+    "upper_bound": 140733.45,
+    "signal": "BUY",
+    "signal_explanation": "The signal is based on the project forecast and direction output.",
+    "risk_level": "High Risk",
+    "volatility": NaN,
+    "interpretation_text": "Gold may rise because the model shows a strong upward probability. Recent gold momentum appears to be an important driver. US market movement appears to be affecting the gold outlook."
+}
