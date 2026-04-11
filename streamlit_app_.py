@@ -516,8 +516,6 @@ def main():
 - Trains multiple models and creates a **weighted ensemble**
 - Adds **direction prediction, confidence range, risk label, and a simple trading strategy**
 
-### Expo-ready one-liner
-**This project combines financial time-series forecasting, feature engineering, ensemble learning, and trading interpretation in one end-to-end dashboard.**
 
 ### Limitations
 - Market shocks and sudden news are not directly modeled
